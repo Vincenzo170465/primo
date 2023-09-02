@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>HTML Links</h1>
+
+<p><a href="https://www.generation.org">Visitiamo 
+generation!</a></p>
+<br>
+<p><a href="pippo.html">Visitiamo 
+Pippo!</a></p>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pippo</title>
+ 
+</head>
+<body>
+
+<h1> Pagina html di Pippo</h1>
+</body>
+</html>
